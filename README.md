@@ -16,6 +16,18 @@
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/> <img width="48" height="48" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="arch-linux"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/> <img width="50" height="50" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/> <img width="50" height="50" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/> <img width="50" height="50" src="https://img.icons8.com/color/48/proxmox.png" alt="proxmox"/> <img width="50" height="50" src="https://img.icons8.com/color/48/ansible.png" alt="ansible"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/nextcloud.png" alt="nextcloud"/> <img width="50" height="50" src="https://img.icons8.com/color/48/linode.png" alt="linode"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo"/>
 
 
+### Certificates and Training
+
+[ Fundamentals of Deep Learning ](https://learn.nvidia.com/certificates?id=x7gc1C9tR-mdSnrpQsyM1w)
+
+[ Applications of AI for Predictive Maintenance ](https://learn.nvidia.com/certificates?id=04pQI7KJQuy8PduoXxd9zQ)
+
+[ Building Transformer-Based Natural Language Processing Applications ](https://learn.nvidia.com/certificates?id=Hv3OeWo2Sw2y4NWwegHrvQ)
+
+[ Fundamentals of Accelerated Computing with CUDA C ](https://learn.nvidia.com/certificates?id=hSF92iLBRJ21b3wRf3bxOw)
+
+[ Fundamentals of Accelerated Computing with CUDA Python ](https://learn.nvidia.com/certificates?id=KY9tYl8PSsqBjx2wUTHeKA)
+
 <!---
 Raghavvram/Raghavvram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
