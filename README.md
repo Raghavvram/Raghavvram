@@ -1,7 +1,7 @@
 ## 👋 Hi there, This is @Raghavvram
-### Student
 <img align="right" width="380" height="200" src="https://community.intel.com/t5/image/serverpage/image-id/40587i9B9A5439EB986A57?v=v2&whitelist-exif-data=Orientation%2CResolution%2COriginalDefaultFinalSize%2CCopyright">
 
+### STUDENT
 - 👀 I’m interested in Cyber-Security, AI
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ML/AI 
