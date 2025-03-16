@@ -30,3 +30,6 @@
 - [Credly](https://www.credly.com/users/raghavvram-j)
 
 ---
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavvram&show_icons=true&theme=radical)
