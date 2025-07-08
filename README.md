@@ -7,7 +7,8 @@ Welcome to my GitHub! I'm a passionate explorer in **Cyber-Security** and **AI**
 Currently, I'm diving deep into **Deep Learning**, unraveling the complexities of machine learning and artificial intelligence. My curiosity fuels constant learning and evolution, and I'm always seeking exciting opportunities to collaborate on **ML/AI** projects.
 
 I'm a huge **Linux** enthusiast, and my distribution of choice is **Arch Linux**.
-# <p align="center">LINUX I USE ARCH BTW</p>
+
+<img src="https://repository-images.githubusercontent.com/344653306/e76e2176-800f-456d-be07-93e8f3da59d8"/>
 
 I'm also an avid **Neovim** user, constantly tweaking my configuration for optimal productivity. My current passion lies in learning **Rust**, delving into its powerful features for systems programming. I have a deep love for **low-level system-related stuff**, exploring how hardware and software interact at a fundamental level.
 
