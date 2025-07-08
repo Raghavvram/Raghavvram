@@ -40,14 +40,34 @@
 
 ---
 
-### 🎓 Certificates & Training
 
-*   [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=x7gc1C9tR-mdSnrpQsyM1w)
-*   [Applications of AI for Predictive Maintenance](https://learn.nvidia.com/certificates?id=04pQI7KJQuy8PduoXxd9zQ)
-*   [Building Transformer-Based Natural Language Processing Applications](https://learn.nvidia.com/certificates?id=Hv3OeWo2Sw2y4NWwegHrvQ)
-*   [Fundamentals of Accelerated Computing with CUDA C](https://learn.nvidia.com/certificates?id=hSF92iLBRJ21b3wRf3bxOw)
-*   [Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=KY9tYl8PSsqBjx2wUTHeKA)
-*   [Credly Profile](https://www.credly.com/users/raghavvram-j)
+### 🏅 **Achievements and Certifications**
+
+#### 📘 NPTEL
+- **Introduction to Internet of Things** (Jul–Oct 2023)
+
+#### 🤖 Artificial Intelligence & Machine Learning
+- **Artificial Intelligence using Google TensorFlow**  
+  _Powered by Google Developers_
+- [Certificate Link](https://drive.google.com/file/d/17brZ1Qvs-VYqR-rUsIfWZr9BKf2uiMyu/view?usp=sharing)
+
+#### 🧠 NVIDIA Deep Learning Institute (DLI)
+- [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=x7gc1C9tR-mdSnrpQsyM1w)
+- [Applications of AI for Predictive Maintenance](https://learn.nvidia.com/certificates?id=04pQI7KJQuy8PduoXxd9zQ)
+- [Building Transformer-Based Natural Language Processing Applications](https://learn.nvidia.com/certificates?id=Hv3OeWo2Sw2y4NWwegHrvQ)
+- [Fundamentals of Accelerated Computing with CUDA C](https://learn.nvidia.com/certificates?id=hSF92iLBRJ21b3wRf3bxOw)
+- [Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=KY9tYl8PSsqBjx2wUTHeKA)
+
+#### ☁️ Google Cloud Skill Boost
+- [View Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/770fd0fd-9fac-4687-9917-c464f8aaea18)
+- Introduction to Generative AI  
+- Gemini for Google Cloud  
+- Generative AI for Developers
+
+#### 🌩️ Amazon Web Services (AWS)
+- [AWS Digital Badges Profile](https://www.credly.com/users/raghavvram-johnson/badges#credly)
+- [AWS Academy Cloud Foundations](https://drive.google.com/file/d/1woxthl9mV4RJINqFvi90YeE4rhJ7H0Hi/view)
+- [AWS Academy Cloud Architecting](https://drive.google.com/file/d/1v_3rMq4_0e1RljPPE1fz9w4ZdSNzxAiU/view)
 
 ---
 
