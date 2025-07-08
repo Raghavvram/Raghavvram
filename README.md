@@ -86,4 +86,4 @@
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)">](https://medium.com/@raghavvram)
 [<img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff">](https://substack.com/@raghavvram)
 [<img alt="Website" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">](https://resume-professional-rho.vercel.app/)
-[<img alt="Website" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white>"](https://raghavvram.github.io/static-resume-prof/)
+[<img alt="Website2" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white>"](https://raghavvram.github.io/static-resume-prof/)
