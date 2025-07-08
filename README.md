@@ -8,7 +8,7 @@ Currently, I'm diving deep into **Deep Learning**, unraveling the complexities o
 
 I'm a huge **Linux** enthusiast, and my distribution of choice is **Arch Linux**.
 
-<img src="https://repository-images.githubusercontent.com/344653306/e76e2176-800f-456d-be07-93e8f3da59d8" style="float: left; margin-right: 10px;"/>
+<img src="https://repository-images.githubusercontent.com/344653306/e76e2176-800f-456d-be07-93e8f3da59d8" width="150" height="150" style="float: left; margin-right: 10px;"/>
 
 I'm also an avid **Neovim** user, constantly tweaking my configuration for optimal productivity. My current passion lies in learning **Rust**, delving into its powerful features for systems programming. I have a deep love for **low-level system-related stuff**, exploring how hardware and software interact at a fundamental level.
 
