@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm Raghavvram!
 
-### 🚀 About Me
 <img src="https://repository-images.githubusercontent.com/344653306/e76e2176-800f-456d-be07-93e8f3da59d8" alt="Avatar">
 
-<h3 style="color: #007acc;">👋 Welcome to My GitHub!</h3>
+
 🚀 I'm a passionate explorer in <strong>Cyber-Security</strong> and <strong>AI</strong>, driven by the transformative power of technology.
 
 🧠 Currently diving deep into <strong>Deep Learning</strong>, unraveling the complexities of machine learning and artificial intelligence.
