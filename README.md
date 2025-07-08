@@ -84,6 +84,6 @@
 
 [<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">](https://www.linkedin.com/in/raghavvram/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)">](https://medium.com/@raghavvram)
-[<img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff">](https://substack.com/@raghavvram)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
+[<img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff">](https://substack.com/@raghavvram)
 [<img alt="Website" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">](https://resume-professional-rho.vercel.app/)
 [<img alt="Website2" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://raghavvram.github.io/static-resume-prof/)
