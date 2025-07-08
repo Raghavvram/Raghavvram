@@ -82,6 +82,14 @@
 
 ### 🤝 Connect With Me
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raghavvram/)
-[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:your.email@example.com) <!-- Replace with your actual email -->
-<!-- Add other social media links as needed -->
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black">](https://www.linkedin.com/in/raghavvram/)
+
+<!--[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:your.email@example.com)-->
+
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)">](https://www.linkedin.com/in/raghavvram/)
+
+[<img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff">](https://www.linkedin.com/in/raghavvram/)
+
+[<img alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raghavvram/)
+
+[<img alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raghavvram/)
