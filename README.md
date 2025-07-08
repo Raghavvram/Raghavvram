@@ -5,16 +5,27 @@
 
 <h3 style="color: #007acc;">👋 Welcome to My GitHub!</h3>
 🚀 I'm a passionate explorer in <strong>Cyber-Security</strong> and <strong>AI</strong>, driven by the transformative power of technology.
+
 🧠 Currently diving deep into <strong>Deep Learning</strong>, unraveling the complexities of machine learning and artificial intelligence.
+
 🐧 I'm a huge <strong>Linux</strong> enthusiast, and my distribution of choice is <strong>Arch Linux</strong>.
+
 📝 I'm also an avid <strong>Neovim</strong> user, constantly tweaking my configuration for optimal productivity.
+
 🦀 My current passion lies in learning <strong>Rust</strong>, exploring powerful features for systems programming and low-level architecture.
+
 📡 I'm deeply invested in <strong>self-hosting</strong>, building and managing my own infrastructure.
+
 🧪 I experiment with <strong>virtualization</strong> and hypervisors to optimize resource usage and create isolated environments.
+
 🐳 <strong>Docker</strong> enables me to containerize apps for consistent deployment and scalability.
+
 ⚙️ Passionate about <strong>automation</strong>, I streamline tasks and craft efficient workflows across my systems.
+
 🎯 Actively seeking <strong>Internships</strong> to gain hands-on experience and contribute to innovative solutions.
+
 🤝 If you're looking for a dedicated, enthusiastic, and impactful team member—let's connect!
+
 💬 Reach out for tech chats, brainstorming, or just a friendly conversation. Let's innovate together!
 
 
