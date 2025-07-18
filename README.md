@@ -44,7 +44,7 @@
 ### 🏅 **Achievements and Certifications**
 
 #### 📘 NPTEL
-- **Introduction to Internet of Things** (Jul–Oct 2023)
+- [**Introduction to Internet of Things** (Jul–Oct 2023)](https://drive.google.com/file/d/1_8l72bhxB35MXGeZppLWWEo8ykHBnY-r/view?usp=sharing)
 
 #### 🤖 Artificial Intelligence & Machine Learning
 - **Artificial Intelligence using Google TensorFlow**  
