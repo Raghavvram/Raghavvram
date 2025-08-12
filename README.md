@@ -39,119 +39,13 @@
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/> <img width="40" height="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/> <img width="40" height="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/> <img width="40" height="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/> <img width="40" height="40" src="https://img.icons8.com/color/48/virtualbox.png" alt="VirtualBox" title="VirtualBox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/nextcloud.png" alt="Nextcloud" title="Nextcloud"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/> <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/> <img width="40" height="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/> <img width="40" height="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/>
 
 
+| 💻 Programming                     | 🖼️ Frameworks               | 📚 Libraries                   | 🛡️ Cybersecurity                                                                                                 |
+|------------------------------------|-----------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Python 🐍 · Java ☕ · C 🔧 · C++ 🔩 · Rust 🦀 · JS ⚡ · TS 📘 · HTML 🌐 · Lua 🎮 · SQL 📄 · NoSQL 📂 | Flask 🌶️ · Django 🌱 · React ⚛️ · Node 🟢 | Pandas 🐼 · NumPy 🔢 · TensorFlow 🧠 · PyTorch 🔥 · Keras 🪐 | VA 🔍 · Pentest 🎯 · Audits 📋 · IAM 🔑 · RBAC 🗝️ · Encryption 🔒 · FW/IDS/IPS 🛡️🚨 · Endpoint 💻 · IR 🚑 · Forensics 🔬 · Threats 🕵️ · NetSec 🌐 · VPN 🔐 · NACL 🔏 · Law ⚖️ · Hardening 🛠 · ZTA 🧩 |
 
-# 🚀 **TECH SKILL UNIVERSE** 🌌
-
----
-
-## 💻 **Programming Languages** 🌈  
-| Language        | Icon |  
-|:---------------:|:----:|  
-| **Python**      | 🐍✨ |  
-| **Java**        | ☕🔥 |  
-| **C**           | 🔧⚡ |  
-| **C++**         | 🔩🌟 |  
-| **Rust**        | 🦀🚀 |  
-| **JavaScript**  | ⚡🎉 |  
-| **TypeScript**  | 📘🔮 |  
-| **HTML**        | 🌐🎨 |  
-| **Lua**         | 🎮💥 |  
-| **SQL**         | 📄🔍 |  
-| **NoSQL**       | 📂🔓 |  
-
----
-
-## 🖼️ **Frameworks & Platforms** 🌟  
-- **Flask** 🌶️ *“Micro but Mighty”*  
-- **Django** 🌱 *“The Full-Stack Boss”*  
-- **React.js** ⚛️ *“UI Wizardry”*  
-- **Node.js** 🟢 *“JS Backend Beast”*  
-
----
-
-## 📚 **Data & ML Libraries** 🤖  
-1. **Pandas** 🐼📊  
-2. **NumPy** 🔢🔬  
-3. **TensorFlow** 🧠💡  
-4. **PyTorch** 🔥🛠️  
-5. **Keras** 🪐🧩  
-
----
-
-## 🛡️ **Cybersecurity Arsenal** 🕷️  
-> **Vulnerability Assmt.** 🔍 •  
-> **Pentesting** 🎯 •  
-> **Security Audits** 📋 •  
-> **IAM / RBAC** 🔑🗝️ •  
-> **Encryption** 🔒 •  
-> **Firewall & IDS/IPS** 🛡️🚨 •  
-> **Endpoint Sec.** 💻 •  
-> **Incident Resp.** 🚑 •  
-> **Digital Forensics** 🔬 •  
-> **Threat Hunting** 🕵️ •  
-> **NetSec & VPNs** 🌐🔐 •  
-> **Zero Trust** 🧩  
-
----
-
-## 🛠 **Security Tools & Standards** 📜  
-| Tool / Standard           | Emoji |  
-|---------------------------|:-----:|  
-| Wireshark                 | 🐟    |  
-| Nmap                      | 📡    |  
-| Aircrack-ng               | 📶    |  
-| Burp Suite                | 🍔    |  
-| Bettercap                 | 🎯    |  
-| Metasploit                | 💣    |  
-| OpenVAS                   | 🛠️    |  
-| Social Eng. Toolkit       | 🎭    |  
-| SIEM / SOAR               | 📊🚀  |  
-| ISO 27001 / ISO 9001 / NIST | 📄📄📜 |  
-
----
-
-## ☁️ **DevOps & Cloud** 🐳  
-- **Containers:** Docker 🐳 | Podman 🛶 | LXC 📦  
-- **Orchestration:** Kubernetes ⚙️  
-- **Infra as Code:** Ansible 🤖  
-- **Virtualization:** Proxmox 🗄️ | VMware 🖥️ | VirtualBox 📦 | KVM 🖥️  
-- **Cloud:** AWS ☁️ | Azure 🔷 | GCP 🌍  
-- **Serverless & Automation:** ⚡🤖  
-
----
-
-## 🗄️ **Databases & Data Mgmt** 📊  
-> **RDBMS:** MySQL 🐬 • PostgreSQL 🐘 • Oracle 🏛️  
-> **NoSQL:** Redis ⚡ • MongoDB 🍃  
-> **Admin Tools:** MySQL Workbench 💼 • Oracle SQL Dev. 🖋️  
-> **Concepts:** DBMS 🛠 • Data Analysis 📊  
-
----
-
-## 🤖 **AI/ML Specialties** 🧠  
-- **Machine Learning** 📈  
-- **Deep Learning** 🕸️  
-- **Recurrent Nets:** LSTM 🔄 | RNN 🔁 | GRU 🔂  
-- **GPU Parallelism:** CUDA 💫  
-
----
-
-## 💼 **Productivity & Collaboration** 🤝  
-- **Office Suite:** Excel, Word, PPT 📑  
-- **Version Control:** Git 🌱 | SVN 📝  
-- **Platforms:** GitHub 🐙 | GitHub Actions ⚙️  
-
----
-
-## 🎯 **Essential Soft Skills** 💡  
-> **Critical Thinking** 🤔 • **Problem Solving** 🧩 • **Decision Making** 🎯  
-> **Communication** 💬 • **Teamwork** 🤝 • **Leadership** 👥 • **Time Mgmt** ⏳ • **Creativity** 🎨  
-
----
-
-> *Embrace the chaos—code smart, secure fiercely, deploy boldly!* 🎉🚀  
-
-
+| 🛠 Tools & Standards               | ☁️ DevOps & Cloud                                                                                      | 🗄️ Database                                                         | 🤖 AI/ML & Productivity                                    | 🎯 Soft Skills                                        |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------|
+| Wireshark 🐟 · Nmap 📡 · Aircrack 📶 · Burp 🍔 · Bettercap 🎯 · Metasploit 💣 · OpenVAS 🛠️ · SET 🎭 · SIEM 📊 · SOAR 🚀 · ISO27001 📄 · ISO9001 📄 · NIST 📜 | Docker 🐳 · Podman 🛶 · Kubernetes ⚙️ · LXC 📦 · Ansible 🔧 · Serverless ⚡ · Infra-IaC 🤖 · Proxmox 🗄️ · VMware 🖥️ · VirtualBox 📦 · KVM 🖥️ · AWS ☁️ · Azure 🔷 · GCP 🌍 | MySQL 🐬 · PostgreSQL 🐘 · Oracle 🏛️ · Redis ⚡ · MongoDB 🍃 · DBMS 🛠 · MySQLWB 💼 · OracleSQL 🖋️ · Data 📊 | ML 📈 · DL 🕸️ · LSTM 🔄 · RNN 🔁 · GRU 🔂 · CUDA 💫 · Office 📑 · Git 🌱 · GitHub 🐙 · Actions ⚙️ · SVN 📝 | Critical 🤔 · Problem 🧩 · Decision 🎯 · Communication 💬 · Teamwork 🤝 · Leadership 👥 · Time ⏳ · Creativity 🎨 |
 
 
 ---
