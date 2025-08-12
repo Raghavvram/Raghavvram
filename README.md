@@ -44,6 +44,7 @@
 <table>
 <tr>
 <td valign="top" width="33%">
+  
 ### 💻 Programming
 - Python 🐍
 - Java ☕
@@ -72,6 +73,7 @@
 </td>
 
 <td valign="top" width="33%">
+
 ### 🛡️ Cybersecurity
 - Vulnerability Assessment & Management 🔍
 - Penetration Testing 🎯
@@ -110,6 +112,7 @@
 </td>
 
 <td valign="top" width="33%">
+
 ### ☁️ DevOps & Cloud
 - Docker 🐳
 - Podman 🛶
