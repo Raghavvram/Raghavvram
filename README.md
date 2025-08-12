@@ -38,12 +38,11 @@
 
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/> <img width="40" height="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/> <img width="40" height="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/> <img width="40" height="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/> <img width="40" height="40" src="https://img.icons8.com/color/48/virtualbox.png" alt="VirtualBox" title="VirtualBox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/nextcloud.png" alt="Nextcloud" title="Nextcloud"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/> <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/> <img width="40" height="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/> <img width="40" height="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/>
 
-
-<table cellpadding="8">
+<table cellpadding="8" cellspacing="0" width="100%">
   <tr>
-    <th>💻 Programming</th>
-    <th>🖼️ Frameworks</th>
-    <th>📚 Libraries</th>
+    <th width="33%">💻 Programming</th>
+    <th width="33%">🖼️ Frameworks</th>
+    <th width="33%">📚 Libraries</th>
   </tr>
   <tr>
     <td>
@@ -75,11 +74,11 @@
   </tr>
 </table>
 
-<table cellpadding="8">
+<table cellpadding="8" cellspacing="0" width="100%" style="margin-top:20px;">
   <tr>
-    <th>🛡️ Cybersecurity</th>
-    <th>🛠️ Tools & Standards</th>
-    <th>☁️ DevOps & Cloud</th>
+    <th width="33%">🛡️ Cybersecurity</th>
+    <th width="33%">🛠️ Tools & Standards</th>
+    <th width="33%">☁️ DevOps & Cloud</th>
   </tr>
   <tr>
     <td>
@@ -128,11 +127,11 @@
   </tr>
 </table>
 
-<table cellpadding="8">
+<table cellpadding="8" cellspacing="0" width="100%" style="margin-top:20px;">
   <tr>
-    <th>🗄️ Database</th>
-    <th>🤖 AI/ML</th>
-    <th>💼 Productivity & Soft Skills</th>
+    <th width="33%">🗄️ Database</th>
+    <th width="33%">🤖 AI/ML</th>
+    <th width="33%">💼 Productivity & Soft Skills</th>
   </tr>
   <tr>
     <td>
@@ -170,9 +169,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
