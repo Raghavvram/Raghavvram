@@ -42,7 +42,6 @@
 ---
 <table>
 <tr>
-<td valign="top" width="33%">
 
 | 💻 Programming |
 |----------------|
@@ -58,8 +57,6 @@
 | SQL 📄        |
 | NoSQL 📂      |
 
-</td>
-<td valign="top" width="33%">
 
 | 🖼️ Frameworks |
 |---------------|
@@ -68,8 +65,7 @@
 | React.js ⚛️  |
 | Node.js 🟢   |
 
-</td>
-<td valign="top" width="33%">
+
 
 | 📚 Libraries |
 |--------------|
@@ -79,7 +75,6 @@
 | PyTorch 🔥  |
 | Keras 🪐   |
 
-</td>
 </tr>
 </table>
 
