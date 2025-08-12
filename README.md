@@ -305,3 +305,76 @@ graph TB
 [<img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff">](https://substack.com/@raghavvram)
 [<img alt="Website" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">](https://resume-professional-rho.vercel.app/)
 [<img alt="Website2" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://raghavvram.github.io/static-resume-prof/)
+
+---
+
+
+
+
+
+graph TB
+  A[Tech Stack] 
+  A --> B[💻 I Code In]
+  A --> C[🛠️ Familiar Technologies]
+
+  subgraph "💻 I Code In"
+    B1[Python]
+    B2[C]
+    B3[Java]
+    B4[Rust]
+    B5[HTML5]
+    B6[CSS3]
+    B7[JavaScript]
+    B8[TypeScript]
+    B9[React]
+    B10[Angular]
+    B11[Vue.js]
+    B12[Node.js]
+    B13[Express.js]
+    B14[C++]
+    B15[Go]
+    B16[Kotlin]
+    B17[Swift]
+    B18[TensorFlow]
+    B19[PyTorch]
+    B --> B1
+    B --> B2
+    B --> B3
+    B --> B4
+    B --> B5
+    B --> B6
+    B --> B7
+    B --> B8
+    B --> B9
+    B --> B10
+    B --> B11
+    B --> B12
+    B --> B13
+    B --> B14
+    B --> B15
+    B --> B16
+    B --> B17
+    B --> B18
+    B --> B19
+  end
+
+  subgraph "🛠️ Familiar Technologies"
+    C1[Docker]
+    C2[Linux]
+    C3[Arch Linux]
+    C4[Kali Linux]
+    C5[Windows]
+    C6[macOS]
+    C7[Kubernetes]
+    C8[AWS]
+    C9[Azure]
+    C10[GCP]
+    C11[Terraform]
+    C12[Ansible]
+    C13[Jenkins]
+    C14[Git]
+    C15[Bitbucket]
+    C16[GitHub]
+    C17[Postman]
+    C18[Elasticsearch]
+    C19[Prometheus]
