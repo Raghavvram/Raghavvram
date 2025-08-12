@@ -40,8 +40,8 @@
 
 <table>
 <tr>
-<td valign="top" width="20%">
-
+<td valign="top" width="33%">
+  
 ### 💻 Programming
 - Python 🐍
 - Java ☕
@@ -54,12 +54,16 @@
 - Lua 🎮
 - SQL 📄
 - NoSQL 📂
+</td>
+<td valign="top" width="33%">
 
 ### 🖼️ Frameworks
 - Flask 🌶️
 - Django 🌱
 - React.js ⚛️
 - Node.js 🟢
+</td>
+<td valign="top" width="33%">
 
 ### 📚 Libraries
 - Pandas 🐼
@@ -86,6 +90,9 @@
 - Incident Response 🚑
 - Digital Forensics 🔬
 - Threat Hunting 🕵️
+</td>
+
+<td valign="top" width="33%">
 
 ### 🛠️ Tools & Standards
 - Wireshark 🐟
