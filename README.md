@@ -57,8 +57,8 @@
 - Lua 🎮
 - SQL 📄
 - NoSQL 📂
-</td>
 
+</td>
 <td valign="top" width="33%">
 
 ### 🖼️ Frameworks
@@ -66,8 +66,8 @@
 - Django 🌱
 - React.js ⚛️
 - Node.js 🟢
-</td>
 
+</td>
 <td valign="top" width="33%">
 
 ### 📚 Libraries
@@ -76,10 +76,10 @@
 - TensorFlow 🧠
 - PyTorch 🔥
 - Keras 🪐
+
 </td>
 </tr>
 </table>
-
 
 ---
 
