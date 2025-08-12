@@ -32,52 +32,11 @@
 ---
 ### 💻 I Code In
 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-<img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/FA5252/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="Rust" title="Rust"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" title="Vue.js"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/go.png" alt="Go" title="Go"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" title="Swift"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" title="PyTorch"/>
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/><img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/FA5252/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="Rust" title="Rust"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" title="Vue.js"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/go.png" alt="Go" title="Go"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" title="Swift"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" title="PyTorch"/>
 
 ### 🛠️ Familiar Technologies
 
-<img height="40" width="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/>
-<img height="40" width="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/>
-<img height="40" width="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows" title="Windows"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mac-logo.png" alt="macOS" title="macOS"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" title="AWS"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Azure"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/google-cloud.png" alt="GCP" title="GCP"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/bitbucket.png" alt="Bitbucket" title="Bitbucket"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/prometheus.png" alt="Prometheus" title="Prometheus"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" title="Grafana"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/nextcloud.png" alt="Nextcloud" title="Nextcloud"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/>
-<img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/>
+<img height="40" width="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/><img height="40" width="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/><img height="40" width="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/><img height="40" width="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows" title="Windows"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/mac-logo.png" alt="macOS" title="macOS"/><img height="40" width="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" title="AWS"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Azure"/><img height="40" width="40" src="https://img.icons8.com/color/48/google-cloud.png" alt="GCP" title="GCP"/><img height="40" width="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/><img height="40" width="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/><img height="40" width="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/><img height="40" width="40" src="https://img.icons8.com/color/48/bitbucket.png" alt="Bitbucket" title="Bitbucket"/><img height="40" width="40" src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/prometheus.png" alt="Prometheus" title="Prometheus"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" title="Grafana"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/nextcloud.png" alt="Nextcloud" title="Nextcloud"/><img height="40" width="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/><img height="40" width="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/><img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/>
 
 
 ---
