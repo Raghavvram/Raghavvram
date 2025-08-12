@@ -43,7 +43,7 @@
 # Skills Matrix
 <table>
 <tr>
-<td valign="top" width="30%">
+<td valign="top" width="20%">
   
 ### 💻 Programming
 - Python 🐍
@@ -143,7 +143,7 @@
 - Data Analysis 📊
 </td>
 
-<td valign="top" width="30%">
+<td valign="top" width="20%">
 
 ### 🤖 AI/ML
 - Machine Learning 📊
