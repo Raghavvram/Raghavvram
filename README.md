@@ -38,9 +38,11 @@
 
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/> <img width="40" height="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/> <img width="40" height="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/> <img width="40" height="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/> <img width="40" height="40" src="https://img.icons8.com/color/48/virtualbox.png" alt="VirtualBox" title="VirtualBox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/nextcloud.png" alt="Nextcloud" title="Nextcloud"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/> <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/> <img width="40" height="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/> <img width="40" height="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/>
 
-<table>
+---
+
+<table width="100%" style="border-collapse: collapse;">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%" style="padding: 10px;">
 
 ### 💻 Programming
 - Python 🐍
@@ -56,7 +58,7 @@
 - NoSQL 📂
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" style="padding: 10px;">
 
 ### 🖼️ Frameworks
 - Flask 🌶️
@@ -65,7 +67,7 @@
 - Node.js 🟢
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" style="padding: 10px;">
 
 ### 📚 Libraries
 - Pandas 🐼
@@ -76,6 +78,7 @@
 </td>
 </tr>
 </table>
+
 
 
 
