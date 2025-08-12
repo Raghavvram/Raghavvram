@@ -239,37 +239,60 @@
 
 
 ```mermaid
-gantt
-    title Tech Stack & Familiar Technologies Timeline
-    dateFormat  YYYY-MM
-    section Programming Languages & Frameworks
-    Python           :active,    py, 2021-01, 12m
-    C & C++          :           c_cpp, after py, 12m
-    Java             :           java, after c_cpp, 10m
-    Rust             :           rust, after java, 8m
-    JavaScript & TS  :           js_ts, 2020-06, 24m
-    React, Angular, Vue :         frontend, after js_ts, 15m
-    Node.js & Express :           backend, 2020-01, 24m
-    TensorFlow, PyTorch :          ml, 2022-01, 10m
+flowchart LR
+  subgraph A["💻 I Code In"]
+    direction TB
+    Python["Python"]
+    C["C"]
+    Java["Java"]
+    Rust["Rust"]
+    HTML5["HTML5"]
+    CSS3["CSS3"]
+    JavaScript["JavaScript"]
+    TypeScript["TypeScript"]
+    React["React"]
+    Angular["Angular"]
+    VueJS["Vue.js"]
+    NodeJS["Node.js"]
+    ExpressJS["Express.js"]
+    CPP["C++"]
+    Go["Go"]
+    Kotlin["Kotlin"]
+    Swift["Swift"]
+    TensorFlow["TensorFlow"]
+    PyTorch["PyTorch"]
+  end
 
-    section DevOps & Infrastructure Tools
-    Docker           :active,    docker, 2019-01, 36m
-    Kubernetes       :           k8s, after docker, 24m
-    Terraform & Ansible :          infra, after k8s, 15m
-    Jenkins, Git, GitHub :          ci_cd, 2018-01, 48m
-    Cloud (AWS, GCP, Azure) :         cloud, after ci_cd, 20m
-    Monitoring (Prometheus, Grafana) :       monitor, after cloud, 12m
+  subgraph B["🛠️ Familiar Technologies"]
+    direction TB
+    Docker["Docker"]
+    Linux["Linux"]
+    ArchLinux["Arch Linux"]
+    KaliLinux["Kali Linux"]
+    Windows["Windows"]
+    MacOS["macOS"]
+    Kubernetes["Kubernetes"]
+    AWS["AWS"]
+    Azure["Azure"]
+    GCP["GCP"]
+    Terraform["Terraform"]
+    Ansible["Ansible"]
+    Jenkins["Jenkins"]
+    Git["Git"]
+    Bitbucket["Bitbucket"]
+    GitHub["GitHub"]
+    Postman["Postman"]
+    Elasticsearch["Elasticsearch"]
+    Prometheus["Prometheus"]
+    Grafana["Grafana"]
+    Nextcloud["Nextcloud"]
+    Linode["Linode"]
+    Proxmox["Proxmox"]
+    Vagrant["Vagrant"]
+  end
 
-    section OS & Platforms
-    Linux & Arch     :active,    linux, 2017-01, 60m
-    Kali Linux       :           kali, after linux, 18m
-    Windows & macOS  :           desktop, 2016-01, 72m
-    VirtualBox, Proxmox, Vagrant :          virtual, after desktop, 20m
-
-    section Collaboration & Databases
-    MySQL & MongoDB  :active,    db, 2018-06, 40m
-    Nextcloud        :           collab, after db, 18m
-    Postman          :           api, 2019-06, 30m
+  classDef category fill:#f9f,stroke:#333,stroke-width:2px,color:#000,font-weight:bold;
+  class A,B category;
 
 
 ```
