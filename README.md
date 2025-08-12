@@ -41,63 +41,49 @@
 
 ---
 
-<table width="100%">
+<table>
 <tr>
 <td valign="top" width="33%">
 
-<table>
-<tr><td>
-
-### 💻 Programming
-- Python 🐍
-- Java ☕
-- C 🔧
-- C++ 🔩
-- Rust 🦀
-- JavaScript ⚡
-- TypeScript 📘
-- HTML 🌐
-- Lua 🎮
-- SQL 📄
-- NoSQL 📂
-
-</td></tr>
-</table>
+| 💻 Programming |   |
+|----------------|---|
+| Python 🐍      |   |
+| Java ☕         |   |
+| C 🔧           |   |
+| C++ 🔩         |   |
+| Rust 🦀        |   |
+| JavaScript ⚡  |   |
+| TypeScript 📘 |   |
+| HTML 🌐       |   |
+| Lua 🎮        |   |
+| SQL 📄        |   |
+| NoSQL 📂      |   |
 
 </td>
 <td valign="top" width="33%">
 
-<table>
-<tr><td>
-
-### 🖼️ Frameworks
-- Flask 🌶️
-- Django 🌱
-- React.js ⚛️
-- Node.js 🟢
-
-</td></tr>
-</table>
+| 🖼️ Frameworks |   |
+|---------------|---|
+| Flask 🌶️     |   |
+| Django 🌱     |   |
+| React.js ⚛️  |   |
+| Node.js 🟢   |   |
 
 </td>
 <td valign="top" width="33%">
 
-<table>
-<tr><td>
-
-### 📚 Libraries
-- Pandas 🐼
-- NumPy 🔢
-- TensorFlow 🧠
-- PyTorch 🔥
-- Keras 🪐
-
-</td></tr>
-</table>
+| 📚 Libraries |   |
+|--------------|---|
+| Pandas 🐼   |   |
+| NumPy 🔢    |   |
+| TensorFlow 🧠 |   |
+| PyTorch 🔥  |   |
+| Keras 🪐   |   |
 
 </td>
 </tr>
 </table>
+
 
 
 ---
