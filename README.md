@@ -1,3 +1,15 @@
+<style>
+.custom-table {
+  width: 100%;
+  table-layout: fixed;
+}
+.custom-table td {
+  vertical-align: top;
+  width: 33%;
+  padding: 10px;
+}
+</style>
+
 # 👋 Hi there, I'm Raghavvram!
 
 <img align="right" width="400" height="300" src="https://repository-images.githubusercontent.com/344653306/e76e2176-800f-456d-be07-93e8f3da59d8" alt="Avatar">
