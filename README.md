@@ -336,6 +336,5 @@ graph TB
     C --> C24
   end
 
-
 ```
 
