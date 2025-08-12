@@ -40,21 +40,69 @@
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/> <img width="40" height="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/> <img width="40" height="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/> <img width="40" height="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/> <img width="40" height="40" src="https://img.icons8.com/color/48/virtualbox.png" alt="VirtualBox" title="VirtualBox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/nextcloud.png" alt="Nextcloud" title="Nextcloud"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/> <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/> <img width="40" height="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/> <img width="40" height="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/>
 
 ---
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th>💻 Programming</th>
+    <th>🖼️ Frameworks</th>
+    <th>📚 Libraries</th>
+  </tr>
+  <tr>
+    <td>Python 🐍</td>
+    <td>Flask 🌶️</td>
+    <td>Pandas 🐼</td>
+  </tr>
+  <tr>
+    <td>Java ☕</td>
+    <td>Django 🌱</td>
+    <td>NumPy 🔢</td>
+  </tr>
+  <tr>
+    <td>C 🔧</td>
+    <td>React.js ⚛️</td>
+    <td>TensorFlow 🧠</td>
+  </tr>
+  <tr>
+    <td>C++ 🔩</td>
+    <td>Node.js 🟢</td>
+    <td>PyTorch 🔥</td>
+  </tr>
+  <tr>
+    <td>Rust 🦀</td>
+    <td></td>
+    <td>Keras 🪐</td>
+  </tr>
+  <tr>
+    <td>JavaScript ⚡</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TypeScript 📘</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>HTML 🌐</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lua 🎮</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SQL 📄</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NoSQL 📂</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-
-| 💻 Programming | 🖼️ Frameworks | 📚 Libraries |
-|---------------|---------------|--------------|
-| Python 🐍     | Flask 🌶️      | Pandas 🐼    |
-| Java ☕        | Django 🌱     | NumPy 🔢     |
-| C 🔧          | React.js ⚛️   | TensorFlow 🧠|
-| C++ 🔩        | Node.js 🟢    | PyTorch 🔥   |
-| Rust 🦀       |               | Keras 🪐     |
-| JavaScript ⚡ |               |              |
-| TypeScript 📘 |               |              |
-| HTML 🌐       |               |              |
-| Lua 🎮        |               |              |
-| SQL 📄        |               |              |
-| NoSQL 📂      |               |              |
 
 
 ---
