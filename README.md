@@ -45,6 +45,9 @@
 <tr>
 <td valign="top" width="33%">
 
+<table>
+<tr><td>
+
 ### 💻 Programming
 - Python 🐍
 - Java ☕
@@ -58,8 +61,14 @@
 - SQL 📄
 - NoSQL 📂
 
+</td></tr>
+</table>
+
 </td>
 <td valign="top" width="33%">
+
+<table>
+<tr><td>
 
 ### 🖼️ Frameworks
 - Flask 🌶️
@@ -67,8 +76,14 @@
 - React.js ⚛️
 - Node.js 🟢
 
+</td></tr>
+</table>
+
 </td>
 <td valign="top" width="33%">
+
+<table>
+<tr><td>
 
 ### 📚 Libraries
 - Pandas 🐼
@@ -77,9 +92,13 @@
 - PyTorch 🔥
 - Keras 🪐
 
+</td></tr>
+</table>
+
 </td>
 </tr>
 </table>
+
 
 ---
 
