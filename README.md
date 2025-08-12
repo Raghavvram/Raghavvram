@@ -106,36 +106,7 @@ graph TB
     C17[Postman]
     C18[Elasticsearch]
     C19[Prometheus]
-    C20[Grafana]
-    C21[Nextcloud]
-    C22[Linode]
-    C23[Proxmox]
-    C24[Vagrant]
-    C --> C1
-    C --> C2
-    C --> C3
-    C --> C4
-    C --> C5
-    C --> C6
-    C --> C7
-    C --> C8
-    C --> C9
-    C --> C10
-    C --> C11
-    C --> C12
-    C --> C13
-    C --> C14
-    C --> C15
-    C --> C16
-    C --> C17
-    C --> C18
-    C --> C19
-    C --> C20
-    C --> C21
-    C --> C22
-    C --> C23
-    C --> C24
-  end
+
 
 
 
