@@ -239,102 +239,38 @@
 
 
 ```mermaid
-graph TB
-  A[Tech Stack] 
-  A --> B[💻 I Code In]
-  A --> C[🛠️ Familiar Technologies]
+gantt
+    title Tech Stack & Familiar Technologies Timeline
+    dateFormat  YYYY-MM
+    section Programming Languages & Frameworks
+    Python           :active,    py, 2021-01, 12m
+    C & C++          :           c_cpp, after py, 12m
+    Java             :           java, after c_cpp, 10m
+    Rust             :           rust, after java, 8m
+    JavaScript & TS  :           js_ts, 2020-06, 24m
+    React, Angular, Vue :         frontend, after js_ts, 15m
+    Node.js & Express :           backend, 2020-01, 24m
+    TensorFlow, PyTorch :          ml, 2022-01, 10m
 
-  subgraph "💻 I Code In"
-    B1[Python]
-    B2[C]
-    B3[Java]
-    B4[Rust]
-    B5[HTML5]
-    B6[CSS3]
-    B7[JavaScript]
-    B8[TypeScript]
-    B9[React]
-    B10[Angular]
-    B11[Vue.js]
-    B12[Node.js]
-    B13[Express.js]
-    B14[C++]
-    B15[Go]
-    B16[Kotlin]
-    B17[Swift]
-    B18[TensorFlow]
-    B19[PyTorch]
-    B --> B1
-    B --> B2
-    B --> B3
-    B --> B4
-    B --> B5
-    B --> B6
-    B --> B7
-    B --> B8
-    B --> B9
-    B --> B10
-    B --> B11
-    B --> B12
-    B --> B13
-    B --> B14
-    B --> B15
-    B --> B16
-    B --> B17
-    B --> B18
-    B --> B19
-  end
+    section DevOps & Infrastructure Tools
+    Docker           :active,    docker, 2019-01, 36m
+    Kubernetes       :           k8s, after docker, 24m
+    Terraform & Ansible :          infra, after k8s, 15m
+    Jenkins, Git, GitHub :          ci_cd, 2018-01, 48m
+    Cloud (AWS, GCP, Azure) :         cloud, after ci_cd, 20m
+    Monitoring (Prometheus, Grafana) :       monitor, after cloud, 12m
 
-  subgraph "🛠️ Familiar Technologies"
-    C1[Docker]
-    C2[Linux]
-    C3[Arch Linux]
-    C4[Kali Linux]
-    C5[Windows]
-    C6[macOS]
-    C7[Kubernetes]
-    C8[AWS]
-    C9[Azure]
-    C10[GCP]
-    C11[Terraform]
-    C12[Ansible]
-    C13[Jenkins]
-    C14[Git]
-    C15[Bitbucket]
-    C16[GitHub]
-    C17[Postman]
-    C18[Elasticsearch]
-    C19[Prometheus]
-    C20[Grafana]
-    C21[Nextcloud]
-    C22[Linode]
-    C23[Proxmox]
-    C24[Vagrant]
-    C --> C1
-    C --> C2
-    C --> C3
-    C --> C4
-    C --> C5
-    C --> C6
-    C --> C7
-    C --> C8
-    C --> C9
-    C --> C10
-    C --> C11
-    C --> C12
-    C --> C13
-    C --> C14
-    C --> C15
-    C --> C16
-    C --> C17
-    C --> C18
-    C --> C19
-    C --> C20
-    C --> C21
-    C --> C22
-    C --> C23
-    C --> C24
-  end
+    section OS & Platforms
+    Linux & Arch     :active,    linux, 2017-01, 60m
+    Kali Linux       :           kali, after linux, 18m
+    Windows & macOS  :           desktop, 2016-01, 72m
+    VirtualBox, Proxmox, Vagrant :          virtual, after desktop, 20m
+
+    section Collaboration & Databases
+    MySQL & MongoDB  :active,    db, 2018-06, 40m
+    Nextcloud        :           collab, after db, 18m
+    Postman          :           api, 2019-06, 30m
+
 
 ```
 
