@@ -40,9 +40,9 @@
 
 <table>
   <tr>
-    <th width="33%">💻 Programming</th>
-    <th width="33%">🖼️ Frameworks</th>
-    <th width="33%">📚 Libraries</th>
+    <th>💻 Programming</th>
+    <th>🖼️ Frameworks</th>
+    <th>📚 Libraries</th>
   </tr>
   <tr>
     <td>
