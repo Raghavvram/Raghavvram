@@ -46,7 +46,6 @@
     <th valign="top">🖼️ Frameworks</th>
     <th valign="top">📚 Libraries</th>
     <th valign="top">🛡️ Cybersecurity</th>
-    <th valign="top">🛠️ Tools & Standards</th>
     <th valign="top">☁️ DevOps & Cloud</th>
   </tr>
   <tr>
@@ -80,20 +79,6 @@
         <li>TensorFlow 🧠</li>
         <li>PyTorch 🔥</li>
         <li>Keras 🪐</li>
-      </ul>
-    </td>
-      <td valign="top">
-      <ul>
-        <li>Vulnerability Assessment 🔍</li>
-        <li>Penetration Testing 🎯</li>
-        <li>Security Audits 📋</li>
-        <li>IAM & RBAC 🔑🗝️</li>
-        <li>Encryption 🔒</li>
-        <li>Firewall & IDS/IPS 🛡️🚨</li>
-        <li>Endpoint Security 💻</li>
-        <li>Incident Response 🚑</li>
-        <li>Digital Forensics 🔬</li>
-        <li>Threat Hunting 🕵️</li>
       </ul>
     </td>
     <td valign="top">
@@ -136,11 +121,26 @@
 
 <table>
   <tr>
+    <th valign="top">🛠️ Tools & Standards</th>
     <th valign="top">🗄️ Database</th>
     <th valign="top">🤖 AI/ML</th>
     <th valign="top">💼 Productivity & Soft Skills</th>
   </tr>
   <tr>
+      <td valign="top">
+      <ul>
+        <li>Vulnerability Assessment 🔍</li>
+        <li>Penetration Testing 🎯</li>
+        <li>Security Audits 📋</li>
+        <li>IAM & RBAC 🔑🗝️</li>
+        <li>Encryption 🔒</li>
+        <li>Firewall & IDS/IPS 🛡️🚨</li>
+        <li>Endpoint Security 💻</li>
+        <li>Incident Response 🚑</li>
+        <li>Digital Forensics 🔬</li>
+        <li>Threat Hunting 🕵️</li>
+      </ul>
+    </td>
     <td valign="top">
       <ul>
         <li>MySQL 🐬</li>
