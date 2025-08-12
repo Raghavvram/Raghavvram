@@ -38,11 +38,10 @@
 
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/> <img width="40" height="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/> <img width="40" height="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/> <img width="40" height="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/> <img width="40" height="40" src="https://img.icons8.com/color/48/virtualbox.png" alt="VirtualBox" title="VirtualBox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/nextcloud.png" alt="Nextcloud" title="Nextcloud"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/> <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/> <img width="40" height="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/> <img width="40" height="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/>
 
-
 <table>
   <tr>
     <td>
-      <strong>💻 Programming</strong><br>
+      <h3>💻 Programming</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>Python 🐍</li>
         <li>Java ☕</li>
@@ -58,7 +57,7 @@
       </ul>
     </td>
     <td>
-      <strong>🖼️ Frameworks</strong><br>
+      <h3>🖼️ Frameworks</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>Flask 🌶️</li>
         <li>Django 🌱</li>
@@ -67,7 +66,7 @@
       </ul>
     </td>
     <td>
-      <strong>📚 Libraries</strong><br>
+      <h3>📚 Libraries</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>Pandas 🐼</li>
         <li>NumPy 🔢</li>
@@ -79,7 +78,7 @@
   </tr>
   <tr>
     <td>
-      <strong>🛡️ Cybersecurity</strong><br>
+      <h3>🛡️ Cybersecurity</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>Vulnerability Assessment 🔍</li>
         <li>Penetration Testing 🎯</li>
@@ -94,7 +93,7 @@
       </ul>
     </td>
     <td>
-      <strong>🛠️ Tools & Standards</strong><br>
+      <h3>🛠️ Tools & Standards</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>Wireshark 🐟</li>
         <li>Nmap 📡</li>
@@ -109,7 +108,7 @@
       </ul>
     </td>
     <td>
-      <strong>☁️ DevOps & Cloud</strong><br>
+      <h3>☁️ DevOps & Cloud</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>Docker 🐳</li>
         <li>Podman 🛶</li>
@@ -126,7 +125,7 @@
   </tr>
   <tr>
     <td>
-      <strong>🗄️ Database</strong><br>
+      <h3>🗄️ Database</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>MySQL 🐬</li>
         <li>PostgreSQL 🐘</li>
@@ -138,7 +137,7 @@
       </ul>
     </td>
     <td>
-      <strong>🤖 AI/ML</strong><br>
+      <h3>🤖 AI/ML</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>Machine Learning 📈</li>
         <li>Deep Learning 🕸️</li>
@@ -147,7 +146,7 @@
       </ul>
     </td>
     <td>
-      <strong>💼 Productivity & Soft Skills</strong><br>
+      <h3>💼 Productivity & Soft Skills</h3>
       <ul style="margin:4px 0; padding-left:18px;">
         <li>Office Suite 📑</li>
         <li>Git / SVN 🌱📝</li>
