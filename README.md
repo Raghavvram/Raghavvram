@@ -40,9 +40,9 @@
 
 ---
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%">
 <tr>
-<td valign="top" width="33%" style="padding: 10px;">
+<td valign="top" width="33%">
 
 ### 💻 Programming
 - Python 🐍
@@ -58,7 +58,7 @@
 - NoSQL 📂
 </td>
 
-<td valign="top" width="33%" style="padding: 10px;">
+<td valign="top" width="33%">
 
 ### 🖼️ Frameworks
 - Flask 🌶️
@@ -67,7 +67,7 @@
 - Node.js 🟢
 </td>
 
-<td valign="top" width="33%" style="padding: 10px;">
+<td valign="top" width="33%">
 
 ### 📚 Libraries
 - Pandas 🐼
@@ -78,9 +78,6 @@
 </td>
 </tr>
 </table>
-
-
-
 
 
 ---
