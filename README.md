@@ -239,71 +239,54 @@
 
 
 ```mermaid
-
 graph TB
-  A[Tech Stack] 
-  A --> B[💻 I Code In]
-  A --> C[🛠️ Familiar Technologies]
+  TechStack["Tech Stack"] --> CodeIn["I Code In"]
+  TechStack --> Familiar["Familiar Technologies"]
 
-  subgraph "💻 I Code In"
-    B1[Python]
-    B2[C]
-    B3[Java]
-    B4[Rust]
-    B5[HTML5]
-    B6[CSS3]
-    B7[JavaScript]
-    B8[TypeScript]
-    B9[React]
-    B10[Angular]
-    B11[Vue.js]
-    B12[Node.js]
-    B13[Express.js]
-    B14[C++]
-    B15[Go]
-    B16[Kotlin]
-    B17[Swift]
-    B18[TensorFlow]
-    B19[PyTorch]
-    B --> B1
-    B --> B2
-    B --> B3
-    B --> B4
-    B --> B5
-    B --> B6
-    B --> B7
-    B --> B8
-    B --> B9
-    B --> B10
-    B --> B11
-    B --> B12
-    B --> B13
-    B --> B14
-    B --> B15
-    B --> B16
-    B --> B17
-    B --> B18
-    B --> B19
-  end
+  CodeIn --> Python
+  CodeIn --> C
+  CodeIn --> Java
+  CodeIn --> Rust
+  CodeIn --> HTML5
+  CodeIn --> CSS3
+  CodeIn --> JavaScript
+  CodeIn --> TypeScript
+  CodeIn --> React
+  CodeIn --> Angular
+  CodeIn --> VueJS
+  CodeIn --> NodeJS
+  CodeIn --> ExpressJS
+  CodeIn --> CPP["C++"]
+  CodeIn --> Go
+  CodeIn --> Kotlin
+  CodeIn --> Swift
+  CodeIn --> TensorFlow
+  CodeIn --> PyTorch
 
-  subgraph "🛠️ Familiar Technologies"
-    C1[Docker]
-    C2[Linux]
-    C3[Arch Linux]
-    C4[Kali Linux]
-    C5[Windows]
-    C6[macOS]
-    C7[Kubernetes]
-    C8[AWS]
-    C9[Azure]
-    C10[GCP]
-    C11[Terraform]
+  Familiar --> Docker
+  Familiar --> Linux
+  Familiar --> ArchLinux
+  Familiar --> KaliLinux
+  Familiar --> Windows
+  Familiar --> MacOS
+  Familiar --> Kubernetes
+  Familiar --> AWS
+  Familiar --> Azure
+  Familiar --> GCP
+  Familiar --> Terraform
+  Familiar --> Ansible
+  Familiar --> Jenkins
+  Familiar --> Git
+  Familiar --> Bitbucket
+  Familiar --> GitHub
+  Familiar --> Postman
+  Familiar --> Elasticsearch
+  Familiar --> Prometheus
+  Familiar --> Grafana
+  Familiar --> Nextcloud
+  Familiar --> Linode
+  Familiar --> Proxmox
+  Familiar --> Vagrant
+
 ```
-    C12[Ansible]
-    C13[Jenkins]
-    C14[Git]
-    C15[Bitbucket]
-    C16[GitHub]
-    C17[Postman]
-    C18[Elasticsearch]
-    C19[Prometheus]
+
