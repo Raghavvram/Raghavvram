@@ -38,6 +38,106 @@
 
 <img height="40" width="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/><img height="40" width="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/><img height="40" width="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/><img height="40" width="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows" title="Windows"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/mac-logo.png" alt="macOS" title="macOS"/><img height="40" width="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Azure"/><img height="40" width="40" src="https://img.icons8.com/color/48/google-cloud.png" alt="GCP" title="GCP"/><img height="40" width="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/><img height="40" width="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/><img height="40" width="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/><img height="40" width="40" src="https://img.icons8.com/color/48/bitbucket.png" alt="Bitbucket" title="Bitbucket"/><img height="40" width="40" src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" title="Grafana"/><img height="40" width="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/><img height="40" width="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/><img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/>
 
+---
+
+graph TB
+  A[Tech Stack] 
+  A --> B[💻 I Code In]
+  A --> C[🛠️ Familiar Technologies]
+
+  subgraph "💻 I Code In"
+    B1[Python]
+    B2[C]
+    B3[Java]
+    B4[Rust]
+    B5[HTML5]
+    B6[CSS3]
+    B7[JavaScript]
+    B8[TypeScript]
+    B9[React]
+    B10[Angular]
+    B11[Vue.js]
+    B12[Node.js]
+    B13[Express.js]
+    B14[C++]
+    B15[Go]
+    B16[Kotlin]
+    B17[Swift]
+    B18[TensorFlow]
+    B19[PyTorch]
+    B --> B1
+    B --> B2
+    B --> B3
+    B --> B4
+    B --> B5
+    B --> B6
+    B --> B7
+    B --> B8
+    B --> B9
+    B --> B10
+    B --> B11
+    B --> B12
+    B --> B13
+    B --> B14
+    B --> B15
+    B --> B16
+    B --> B17
+    B --> B18
+    B --> B19
+  end
+
+  subgraph "🛠️ Familiar Technologies"
+    C1[Docker]
+    C2[Linux]
+    C3[Arch Linux]
+    C4[Kali Linux]
+    C5[Windows]
+    C6[macOS]
+    C7[Kubernetes]
+    C8[AWS]
+    C9[Azure]
+    C10[GCP]
+    C11[Terraform]
+    C12[Ansible]
+    C13[Jenkins]
+    C14[Git]
+    C15[Bitbucket]
+    C16[GitHub]
+    C17[Postman]
+    C18[Elasticsearch]
+    C19[Prometheus]
+    C20[Grafana]
+    C21[Nextcloud]
+    C22[Linode]
+    C23[Proxmox]
+    C24[Vagrant]
+    C --> C1
+    C --> C2
+    C --> C3
+    C --> C4
+    C --> C5
+    C --> C6
+    C --> C7
+    C --> C8
+    C --> C9
+    C --> C10
+    C --> C11
+    C --> C12
+    C --> C13
+    C --> C14
+    C --> C15
+    C --> C16
+    C --> C17
+    C --> C18
+    C --> C19
+    C --> C20
+    C --> C21
+    C --> C22
+    C --> C23
+    C --> C24
+  end
+
+
 
 ---
 
