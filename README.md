@@ -42,7 +42,8 @@
 ---
 <table>
 <tr>
-
+<td>
+  
 | 💻 Programming |
 |----------------|
 | Python 🐍      |
@@ -57,7 +58,10 @@
 | SQL 📄        |
 | NoSQL 📂      |
 
-
+</td>
+  
+<td>
+  
 | 🖼️ Frameworks |
 |---------------|
 | Flask 🌶️     |
@@ -65,8 +69,9 @@
 | React.js ⚛️  |
 | Node.js 🟢   |
 
+<td>
 
-
+</td>
 | 📚 Libraries |
 |--------------|
 | Pandas 🐼   |
@@ -74,7 +79,7 @@
 | TensorFlow 🧠 |
 | PyTorch 🔥  |
 | Keras 🪐   |
-
+</td>
 </tr>
 </table>
 
