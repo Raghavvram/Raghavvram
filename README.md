@@ -40,138 +40,117 @@
 
 
 
-# Skills Matrix
-<table>
-<tr>
-<td valign="top" width="20%">
-  
-### 💻 Programming
-- Python 🐍
-- Java ☕
-- C 🔧
-- C++ 🔩
-- Rust 🦀
-- JavaScript ⚡
-- TypeScript 📘
-- HTML 🌐
-- Lua 🎮
-- SQL 📄
-- NoSQL 📂
+# 🚀 **TECH SKILL UNIVERSE** 🌌
 
-### 🖼️ Frameworks
-- Flask 🌶️
-- Django 🌱
-- React.js ⚛️
-- Node.js 🟢
+---
 
-### 📚 Libraries
-- Pandas 🐼
-- NumPy 🔢
-- TensorFlow 🧠
-- PyTorch 🔥
-- Keras 🪐
-</td>
+## 💻 **Programming Languages** 🌈  
+| Language        | Icon |  
+|:---------------:|:----:|  
+| **Python**      | 🐍✨ |  
+| **Java**        | ☕🔥 |  
+| **C**           | 🔧⚡ |  
+| **C++**         | 🔩🌟 |  
+| **Rust**        | 🦀🚀 |  
+| **JavaScript**  | ⚡🎉 |  
+| **TypeScript**  | 📘🔮 |  
+| **HTML**        | 🌐🎨 |  
+| **Lua**         | 🎮💥 |  
+| **SQL**         | 📄🔍 |  
+| **NoSQL**       | 📂🔓 |  
 
-<td valign="top" width="30%">
+---
 
-### 🛡️ Cybersecurity
-- Vulnerability Assessment & Management 🔍
-- Penetration Testing 🎯
-- Security Audits 📋
-- IAM 🔑
-- RBAC 🗝️
-- Encryption 🔒
-- Firewall Configuration 🛡️
-- IDS/IPS 🚨
-- Endpoint Security 💻
-- Incident Response 🚑
-- Digital Forensics 🔬
-- Cyber Threats 🕵️
-- Network Security 🌐
-- Network Protocols 📡
-- VPNs 🔐
-- Network Access Control 🔏
-- Cybersecurity Law ⚖️
-- System Hardening 🛠
-- Zero Trust Architecture 🧩
+## 🖼️ **Frameworks & Platforms** 🌟  
+- **Flask** 🌶️ *“Micro but Mighty”*  
+- **Django** 🌱 *“The Full-Stack Boss”*  
+- **React.js** ⚛️ *“UI Wizardry”*  
+- **Node.js** 🟢 *“JS Backend Beast”*  
 
-### 🛠 Security Tools & Standards
-- Wireshark 🐟
-- Nmap 📡
-- Aircrack-ng 📶
-- Burp Suite 🍔
-- Bettercap 🎯
-- Metasploit 💣
-- OpenVAS 🛠️
-- Social Engineering Toolkit 🎭
-- SIEM 📊
-- SOAR 🚀
-- ISO 27001 📄
-- ISO 9001 📄
-- NIST Framework 📜
-</td>
+---
 
-<td valign="top" width="25%">
+## 📚 **Data & ML Libraries** 🤖  
+1. **Pandas** 🐼📊  
+2. **NumPy** 🔢🔬  
+3. **TensorFlow** 🧠💡  
+4. **PyTorch** 🔥🛠️  
+5. **Keras** 🪐🧩  
 
-### ☁️ DevOps & Cloud
-- Docker 🐳
-- Podman 🛶
-- Kubernetes ⚙️
-- LXC 📦
-- Ansible 🔧
-- Serverless Architecture ⚡
-- Infrastructure Automation 🤖
-- Self-hosting 🏠
-- Proxmox 🗄️
-- VMware 🖥️
-- VirtualBox 📦
-- KVM 🖥️
-- AWS ☁️
-- Azure 🔷
-- GCP 🌍
+---
 
-### 🗄️ Database
-- MySQL 🐬
-- PostgreSQL 🐘
-- Oracle 🏛️
-- Redis ⚡
-- MongoDB 🍃
-- DBMS 🛠
-- Database Administration 📂
-- MySQL Workbench 💼
-- Oracle SQL Developer 🖋️
-- Data Analysis 📊
-</td>
+## 🛡️ **Cybersecurity Arsenal** 🕷️  
+> **Vulnerability Assmt.** 🔍 •  
+> **Pentesting** 🎯 •  
+> **Security Audits** 📋 •  
+> **IAM / RBAC** 🔑🗝️ •  
+> **Encryption** 🔒 •  
+> **Firewall & IDS/IPS** 🛡️🚨 •  
+> **Endpoint Sec.** 💻 •  
+> **Incident Resp.** 🚑 •  
+> **Digital Forensics** 🔬 •  
+> **Threat Hunting** 🕵️ •  
+> **NetSec & VPNs** 🌐🔐 •  
+> **Zero Trust** 🧩  
 
-<td valign="top" width="25%">
+---
 
-### 🤖 AI/ML
-- Machine Learning 📊
-- Deep Learning 🕸️
-- LSTM 🔄
-- RNN 🔁
-- GRU 🔂
-- CUDA 💫
+## 🛠 **Security Tools & Standards** 📜  
+| Tool / Standard           | Emoji |  
+|---------------------------|:-----:|  
+| Wireshark                 | 🐟    |  
+| Nmap                      | 📡    |  
+| Aircrack-ng               | 📶    |  
+| Burp Suite                | 🍔    |  
+| Bettercap                 | 🎯    |  
+| Metasploit                | 💣    |  
+| OpenVAS                   | 🛠️    |  
+| Social Eng. Toolkit       | 🎭    |  
+| SIEM / SOAR               | 📊🚀  |  
+| ISO 27001 / ISO 9001 / NIST | 📄📄📜 |  
 
-### 💼 Productivity & Tools
-- Microsoft Office Suite (Excel, Word, PowerPoint) 📑
-- Git 🌱
-- GitHub 🐙
-- GitHub Actions ⚙️
-- SVN 📝
+---
 
-### 🎯 Soft Skills
-- Critical Thinking 🤔
-- Problem Solving 🧩
-- Decision Making 🎯
-- Communication 💬
-- Teamwork 🤝
-- Leadership 👥
-- Time Management ⏳
-- Creativity 🎨
-</td>
-</tr>
-</table>
+## ☁️ **DevOps & Cloud** 🐳  
+- **Containers:** Docker 🐳 | Podman 🛶 | LXC 📦  
+- **Orchestration:** Kubernetes ⚙️  
+- **Infra as Code:** Ansible 🤖  
+- **Virtualization:** Proxmox 🗄️ | VMware 🖥️ | VirtualBox 📦 | KVM 🖥️  
+- **Cloud:** AWS ☁️ | Azure 🔷 | GCP 🌍  
+- **Serverless & Automation:** ⚡🤖  
+
+---
+
+## 🗄️ **Databases & Data Mgmt** 📊  
+> **RDBMS:** MySQL 🐬 • PostgreSQL 🐘 • Oracle 🏛️  
+> **NoSQL:** Redis ⚡ • MongoDB 🍃  
+> **Admin Tools:** MySQL Workbench 💼 • Oracle SQL Dev. 🖋️  
+> **Concepts:** DBMS 🛠 • Data Analysis 📊  
+
+---
+
+## 🤖 **AI/ML Specialties** 🧠  
+- **Machine Learning** 📈  
+- **Deep Learning** 🕸️  
+- **Recurrent Nets:** LSTM 🔄 | RNN 🔁 | GRU 🔂  
+- **GPU Parallelism:** CUDA 💫  
+
+---
+
+## 💼 **Productivity & Collaboration** 🤝  
+- **Office Suite:** Excel, Word, PPT 📑  
+- **Version Control:** Git 🌱 | SVN 📝  
+- **Platforms:** GitHub 🐙 | GitHub Actions ⚙️  
+
+---
+
+## 🎯 **Essential Soft Skills** 💡  
+> **Critical Thinking** 🤔 • **Problem Solving** 🧩 • **Decision Making** 🎯  
+> **Communication** 💬 • **Teamwork** 🤝 • **Leadership** 👥 • **Time Mgmt** ⏳ • **Creativity** 🎨  
+
+---
+
+> *Embrace the chaos—code smart, secure fiercely, deploy boldly!* 🎉🚀  
+
 
 
 
