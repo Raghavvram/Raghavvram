@@ -111,7 +111,7 @@
 - NIST Framework 📜
 </td>
 
-<td valign="top" width="30%">
+<td valign="top" width="25%">
 
 ### ☁️ DevOps & Cloud
 - Docker 🐳
@@ -143,7 +143,7 @@
 - Data Analysis 📊
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="25%">
 
 ### 🤖 AI/ML
 - Machine Learning 📊
