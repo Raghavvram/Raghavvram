@@ -68,7 +68,11 @@
 - PyTorch 🔥
 - Keras 🪐
 </td>
+</tr>
+</table>
 
+<table>
+<tr>
 <td valign="top" width="30%">
 
 ### 🛡️ Cybersecurity
@@ -98,7 +102,11 @@
 - ISO9001 📄
 - NIST 📜
 </td>
+</tr>
+</table>
 
+<table>
+<tr>
 <td valign="top" width="25%">
 
 ### ☁️ DevOps & Cloud
