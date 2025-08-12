@@ -141,6 +141,9 @@
 - MySQL Workbench 💼
 - Oracle SQL Developer 🖋️
 - Data Analysis 📊
+</td>
+
+<td valign="top" width="33%">
 
 ### 🤖 AI/ML
 - Machine Learning 📊
