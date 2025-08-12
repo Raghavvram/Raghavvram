@@ -38,129 +38,219 @@
 
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" title="Linux"/> <img width="40" height="40" src="https://img.icons8.com/material-sharp/48/228BE6/arch-linux.png" alt="Arch Linux" title="Arch Linux"/> <img width="40" height="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="Kali Linux" title="Kali Linux"/> <img width="40" height="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes"/> <img width="40" height="40" src="https://img.icons8.com/color/48/virtualbox.png" alt="VirtualBox" title="VirtualBox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/proxmox.png" alt="Proxmox" title="Proxmox"/> <img width="40" height="40" src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" title="Ansible"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/nextcloud.png" alt="Nextcloud" title="Nextcloud"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linode.png" alt="Linode" title="Linode"/> <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png" alt="Vagrant" title="Vagrant"/> <img width="40" height="40" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform"/> <img width="40" height="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" title="Jenkins"/>
 
-<table>
-  <tr>
-    <td>
-      <h3>💻 Programming</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>Python 🐍</li>
-        <li>Java ☕</li>
-        <li>C 🔧</li>
-        <li>C++ 🔩</li>
-        <li>Rust 🦀</li>
-        <li>JavaScript ⚡</li>
-        <li>TypeScript 📘</li>
-        <li>HTML 🌐</li>
-        <li>Lua 🎮</li>
-        <li>SQL 📄</li>
-        <li>NoSQL 📂</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🖼️ Frameworks</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>Flask 🌶️</li>
-        <li>Django 🌱</li>
-        <li>React.js ⚛️</li>
-        <li>Node.js 🟢</li>
-      </ul>
-    </td>
-    <td>
-      <h3>📚 Libraries</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>Pandas 🐼</li>
-        <li>NumPy 🔢</li>
-        <li>TensorFlow 🧠</li>
-        <li>PyTorch 🔥</li>
-        <li>Keras 🪐</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🛡️ Cybersecurity</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>Vulnerability Assessment 🔍</li>
-        <li>Penetration Testing 🎯</li>
-        <li>Security Audits 📋</li>
-        <li>IAM & RBAC 🔑🗝️</li>
-        <li>Encryption 🔒</li>
-        <li>Firewall & IDS/IPS 🛡️🚨</li>
-        <li>Endpoint Security 💻</li>
-        <li>Incident Response 🚑</li>
-        <li>Digital Forensics 🔬</li>
-        <li>Threat Hunting 🕵️</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🛠️ Tools & Standards</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>Wireshark 🐟</li>
-        <li>Nmap 📡</li>
-        <li>Aircrack-ng 📶</li>
-        <li>Burp Suite 🍔</li>
-        <li>Bettercap 🎯</li>
-        <li>Metasploit 💣</li>
-        <li>OpenVAS 🛠️</li>
-        <li>SET Toolkit 🎭</li>
-        <li>SIEM & SOAR 📊🚀</li>
-        <li>ISO27001 / ISO9001 / NIST 📄📜</li>
-      </ul>
-    </td>
-    <td>
-      <h3>☁️ DevOps & Cloud</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>Docker 🐳</li>
-        <li>Podman 🛶</li>
-        <li>Kubernetes ⚙️</li>
-        <li>LXC 📦</li>
-        <li>Ansible 🔧</li>
-        <li>Serverless ⚡</li>
-        <li>Infra as Code 🤖</li>
-        <li>Proxmox 🗄️</li>
-        <li>VMware & VirtualBox 🖥️📦</li>
-        <li>AWS / Azure / GCP ☁️🔷🌍</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🗄️ Database</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>MySQL 🐬</li>
-        <li>PostgreSQL 🐘</li>
-        <li>Oracle 🏛️</li>
-        <li>Redis ⚡</li>
-        <li>MongoDB 🍃</li>
-        <li>DBMS Concepts 🛠️</li>
-        <li>MySQL WB & Oracle SQL Dev 💼🖋️</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🤖 AI/ML</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>Machine Learning 📈</li>
-        <li>Deep Learning 🕸️</li>
-        <li>LSTM / RNN / GRU 🔄🔁🔂</li>
-        <li>CUDA 💫</li>
-      </ul>
-    </td>
-    <td>
-      <h3>💼 Productivity & Soft Skills</h3>
-      <ul style="margin:4px 0; padding-left:18px;">
-        <li>Office Suite 📑</li>
-        <li>Git / SVN 🌱📝</li>
-        <li>GitHub & Actions 🐙⚙️</li>
-        <li>Critical Thinking 🤔</li>
-        <li>Problem Solving 🧩</li>
-        <li>Decision Making 🎯</li>
-        <li>Communication & Teamwork 💬🤝</li>
-        <li>Leadership & Time Mgmt 👥⏳</li>
-        <li>Creativity 🎨</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<style>
+  .grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .skill-table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    width: 30%;
+    min-width: 200px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  }
+  .skill-table th {
+    position: sticky;
+    top: 0;
+    background: #f7f7f7;
+    padding: 12px;
+    font-size: 1.1em;
+  }
+  .skill-table td {
+    padding: 8px 12px;
+    vertical-align: top;
+  }
+  .skill-table ul {
+    margin: 4px 0;
+    padding-left: 18px;
+  }
+  .skill-table ul li {
+    margin-bottom: 6px;
+  }
+</style>
+
+<div class="grid-container">
+  <table class="skill-table">
+    <thead>
+      <tr><th>💻 Programming</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>Python 🐍</li>
+          <li>Java ☕</li>
+          <li>C 🔧</li>
+          <li>C++ 🔩</li>
+          <li>Rust 🦀</li>
+          <li>JavaScript ⚡</li>
+          <li>TypeScript 📘</li>
+          <li>HTML 🌐</li>
+          <li>Lua 🎮</li>
+          <li>SQL 📄</li>
+          <li>NoSQL 📂</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+
+  <table class="skill-table">
+    <thead>
+      <tr><th>🖼️ Frameworks</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>Flask 🌶️</li>
+          <li>Django 🌱</li>
+          <li>React.js ⚛️</li>
+          <li>Node.js 🟢</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+
+  <table class="skill-table">
+    <thead>
+      <tr><th>📚 Libraries</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>Pandas 🐼</li>
+          <li>NumPy 🔢</li>
+          <li>TensorFlow 🧠</li>
+          <li>PyTorch 🔥</li>
+          <li>Keras 🪐</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+
+  <table class="skill-table">
+    <thead>
+      <tr><th>🛡️ Cybersecurity</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>Vulnerability Assessment 🔍</li>
+          <li>Penetration Testing 🎯</li>
+          <li>Security Audits 📋</li>
+          <li>IAM & RBAC 🔑🗝️</li>
+          <li>Encryption 🔒</li>
+          <li>Firewall & IDS/IPS 🛡️🚨</li>
+          <li>Endpoint Security 💻</li>
+          <li>Incident Response 🚑</li>
+          <li>Digital Forensics 🔬</li>
+          <li>Threat Hunting 🕵️</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+
+  <table class="skill-table">
+    <thead>
+      <tr><th>🛠️ Tools & Standards</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>Wireshark 🐟</li>
+          <li>Nmap 📡</li>
+          <li>Aircrack-ng 📶</li>
+          <li>Burp Suite 🍔</li>
+          <li>Bettercap 🎯</li>
+          <li>Metasploit 💣</li>
+          <li>OpenVAS 🛠️</li>
+          <li>SET Toolkit 🎭</li>
+          <li>SIEM & SOAR 📊🚀</li>
+          <li>ISO27001 / ISO9001 / NIST 📄📜</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+
+  <table class="skill-table">
+    <thead>
+      <tr><th>☁️ DevOps & Cloud</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>Docker 🐳</li>
+          <li>Podman 🛶</li>
+          <li>Kubernetes ⚙️</li>
+          <li>LXC 📦</li>
+          <li>Ansible 🔧</li>
+          <li>Serverless ⚡</li>
+          <li>Infra as Code 🤖</li>
+          <li>Proxmox 🗄️</li>
+          <li>VMware & VirtualBox 🖥️📦</li>
+          <li>AWS / Azure / GCP ☁️🔷🌍</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+
+  <table class="skill-table">
+    <thead>
+      <tr><th>🗄️ Database</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>MySQL 🐬</li>
+          <li>PostgreSQL 🐘</li>
+          <li>Oracle 🏛️</li>
+          <li>Redis ⚡</li>
+          <li>MongoDB 🍃</li>
+          <li>DBMS Concepts 🛠️</li>
+          <li>MySQL WB & Oracle SQL Dev 💼🖋️</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+
+  <table class="skill-table">
+    <thead>
+      <tr><th>🤖 AI/ML</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>Machine Learning 📈</li>
+          <li>Deep Learning 🕸️</li>
+          <li>LSTM / RNN / GRU 🔄🔁🔂</li>
+          <li>CUDA 💫</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+
+  <table class="skill-table">
+    <thead>
+      <tr><th>💼 Productivity & Soft Skills</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>
+        <ul>
+          <li>Office Suite 📑</li>
+          <li>Git / SVN 🌱📝</li>
+          <li>GitHub & Actions 🐙⚙️</li>
+          <li>Critical Thinking 🤔</li>
+          <li>Problem Solving 🧩</li>
+          <li>Decision Making 🎯</li>
+          <li>Communication & Teamwork 💬🤝</li>
+          <li>Leadership & Time Mgmt 👥⏳</li>
+          <li>Creativity 🎨</li>
+        </ul>
+      </td></tr>
+    </tbody>
+  </table>
+</div>
+
 
 
 ---
