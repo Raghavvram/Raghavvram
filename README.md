@@ -46,6 +46,8 @@
     <th valign="top">🖼️ Frameworks</th>
     <th valign="top">📚 Libraries</th>
     <th valign="top">🛡️ Cybersecurity</th>
+    <th valign="top">🛠️ Tools & Standards</th>
+    <th valign="top">☁️ DevOps & Cloud</th>
   </tr>
   <tr>
     <td valign="top">
@@ -94,15 +96,6 @@
         <li>Threat Hunting 🕵️</li>
       </ul>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th valign="top">🛠️ Tools & Standards</th>
-    <th valign="top">☁️ DevOps & Cloud</th>
-  </tr>
-  <tr>
     <td valign="top">
       <ul>
         <li>Wireshark 🐟</li>
