@@ -41,76 +41,132 @@
 
 
 # Skills Matrix
-
 <table>
 <tr>
 <td valign="top" width="33%">
-
-### 💻 **Programming**
+### 💻 Programming
 - Python 🐍
 - Java ☕
-- C/C++ 🔧
+- C 🔧
+- C++ 🔩
+- Rust 🦀
 - JavaScript ⚡
 - TypeScript 📘
-- Rust 🦀
+- HTML 🌐
+- Lua 🎮
+- SQL 📄
+- NoSQL 📂
 
-</td>
-<td valign="top" width="33%">
+### 🖼️ Frameworks
+- Flask 🌶️
+- Django 🌱
+- React.js ⚛️
+- Node.js 🟢
 
-### 🛡️ **Security**
-- Penetration Testing 🎯
-- Vulnerability Assessment 🔍
-- Digital Forensics 🔬
-- Network Security 🌐
-- Incident Response 🚨
-- Zero Trust Architecture 🔐
-
-</td>
-<td valign="top" width="33%">
-
-### ☁️ **DevOps & Cloud**
-- Docker 🐳
-- Kubernetes ⚙️
-- AWS ☁️
-- Azure 🔷
-- Ansible 🔧
-- CI/CD 🚀
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🗄️ **Database**
-- PostgreSQL 🐘
-- MongoDB 🍃
-- MySQL 🐬
-- Redis ⚡
-- Oracle 🏛️
-
-</td>
-<td valign="top">
-
-### 🤖 **AI/ML**
+### 📚 Libraries
+- Pandas 🐼
+- NumPy 🔢
 - TensorFlow 🧠
 - PyTorch 🔥
+- Keras 🪐
+</td>
+
+<td valign="top" width="33%">
+### 🛡️ Cybersecurity
+- Vulnerability Assessment & Management 🔍
+- Penetration Testing 🎯
+- Security Audits 📋
+- IAM 🔑
+- RBAC 🗝️
+- Encryption 🔒
+- Firewall Configuration 🛡️
+- IDS/IPS 🚨
+- Endpoint Security 💻
+- Incident Response 🚑
+- Digital Forensics 🔬
+- Cyber Threats 🕵️
+- Network Security 🌐
+- Network Protocols 📡
+- VPNs 🔐
+- Network Access Control 🔏
+- Cybersecurity Law ⚖️
+- System Hardening 🛠
+- Zero Trust Architecture 🧩
+
+### 🛠 Security Tools & Standards
+- Wireshark 🐟
+- Nmap 📡
+- Aircrack-ng 📶
+- Burp Suite 🍔
+- Bettercap 🎯
+- Metasploit 💣
+- OpenVAS 🛠️
+- Social Engineering Toolkit 🎭
+- SIEM 📊
+- SOAR 🚀
+- ISO 27001 📄
+- ISO 9001 📄
+- NIST Framework 📜
+</td>
+
+<td valign="top" width="33%">
+### ☁️ DevOps & Cloud
+- Docker 🐳
+- Podman 🛶
+- Kubernetes ⚙️
+- LXC 📦
+- Ansible 🔧
+- Serverless Architecture ⚡
+- Infrastructure Automation 🤖
+- Self-hosting 🏠
+- Proxmox 🗄️
+- VMware 🖥️
+- VirtualBox 📦
+- KVM 🖥️
+- AWS ☁️
+- Azure 🔷
+- GCP 🌍
+
+### 🗄️ Database
+- MySQL 🐬
+- PostgreSQL 🐘
+- Oracle 🏛️
+- Redis ⚡
+- MongoDB 🍃
+- DBMS 🛠
+- Database Administration 📂
+- MySQL Workbench 💼
+- Oracle SQL Developer 🖋️
+- Data Analysis 📊
+
+### 🤖 AI/ML
 - Machine Learning 📊
 - Deep Learning 🕸️
+- LSTM 🔄
+- RNN 🔁
+- GRU 🔂
 - CUDA 💫
 
-</td>
-<td valign="top">
+### 💼 Productivity & Tools
+- Microsoft Office Suite (Excel, Word, PowerPoint) 📑
+- Git 🌱
+- GitHub 🐙
+- GitHub Actions ⚙️
+- SVN 📝
 
-### 🎯 **Soft Skills**
-- Leadership 👥
-- Problem Solving 🧩
-- Communication 💬
+### 🎯 Soft Skills
 - Critical Thinking 🤔
-- Project Management 📋
-
+- Problem Solving 🧩
+- Decision Making 🎯
+- Communication 💬
+- Teamwork 🤝
+- Leadership 👥
+- Time Management ⏳
+- Creativity 🎨
 </td>
 </tr>
 </table>
+
 
 
 ---
