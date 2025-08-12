@@ -54,6 +54,79 @@
 | Soft Skills                 | Critical Thinking, Problem Solving, Decision Making, Communication, Teamwork, Leadership, Time Management, Creativity                                                                                          |
 
 
+# Skills Matrix
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 💻 **Programming**
+- Python 🐍
+- Java ☕
+- C/C++ 🔧
+- JavaScript ⚡
+- TypeScript 📘
+- Rust 🦀
+
+</td>
+<td valign="top" width="33%">
+
+### 🛡️ **Security**
+- Penetration Testing 🎯
+- Vulnerability Assessment 🔍
+- Digital Forensics 🔬
+- Network Security 🌐
+- Incident Response 🚨
+- Zero Trust Architecture 🔐
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ **DevOps & Cloud**
+- Docker 🐳
+- Kubernetes ⚙️
+- AWS ☁️
+- Azure 🔷
+- Ansible 🔧
+- CI/CD 🚀
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🗄️ **Database**
+- PostgreSQL 🐘
+- MongoDB 🍃
+- MySQL 🐬
+- Redis ⚡
+- Oracle 🏛️
+
+</td>
+<td valign="top">
+
+### 🤖 **AI/ML**
+- TensorFlow 🧠
+- PyTorch 🔥
+- Machine Learning 📊
+- Deep Learning 🕸️
+- CUDA 💫
+
+</td>
+<td valign="top">
+
+### 🎯 **Soft Skills**
+- Leadership 👥
+- Problem Solving 🧩
+- Communication 💬
+- Critical Thinking 🤔
+- Project Management 📋
+
+</td>
+</tr>
+</table>
+
+
 ---
 
 
