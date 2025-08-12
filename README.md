@@ -238,7 +238,7 @@
 
 
 
-
+```mermaid
 
 graph TB
   A[Tech Stack] 
@@ -298,6 +298,7 @@ graph TB
     C9[Azure]
     C10[GCP]
     C11[Terraform]
+```
     C12[Ansible]
     C13[Jenkins]
     C14[Git]
