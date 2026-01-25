@@ -1,8 +1,9 @@
 
 # 👋 Hi there, I'm Raghavvram!
 
-<img align="right" width="400" height="300" src="https://repository-images.githubusercontent.com/344653306/e76e2176-800f-456d-be07-93e8f3da59d8" alt="Avatar">
+<!-- <img align="right" width="400" height="300" src="https://repository-images.githubusercontent.com/344653306/e76e2176-800f-456d-be07-93e8f3da59d8" alt="Avatar"> -->
 
+<img align="right" width="400" height="300" src="arch.svg" alt="Avatar">
 
 🚀 I'm a passionate explorer in <strong>Cyber-Security</strong> and <strong>AI</strong>, driven by the transformative power of technology.
 
