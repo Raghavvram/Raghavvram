@@ -25,7 +25,7 @@ Experienced in building security solutions involving **AWS, GCP, CSPM, CI/CD sec
 * Developed **AI-powered security automation** using Google Vertex AI for cloud compliance, reducing manual effort by **80%** and accelerating compliance assessments by **50%**.
 * Developed an **LLM-based security platform for secret detection** and integrated it with CI/CD pipelines for automated analysis of sensitive credentials.
 
-**AIR Center VIT-AP — VIT-AP University**
+### AIR Center VIT-AP — VIT-AP University
 **Technical Lead** | January 2025 – November 2025
 
 * Led research and development projects spanning **cybersecurity, network authentication, embedded security, hardware authentication, and full-stack security analytics** within the university's **Center of Excellence for Artificial Intelligence and Research**.
