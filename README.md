@@ -24,15 +24,16 @@ Experienced in building security solutions involving **AWS, GCP, CSPM, CI/CD sec
 * Automated security validation through **CloudBees and Jenkins CI/CD guardrails**, integrating Checkmarx One for **SAST, SCA, IaC security, and secret scanning**, preventing **3,856+ secret exposures** and reducing validation time from days to minutes.
 * Developed **AI-powered security automation** using Google Vertex AI for cloud compliance, reducing manual effort by **80%** and accelerating compliance assessments by **50%**.
 * Developed an **LLM-based security platform for secret detection** and integrated it with CI/CD pipelines for automated analysis of sensitive credentials.
+* 
+### Edubot — Developer Trainee
 
-### AIR Center VIT-AP — VIT-AP University
-**Technical Lead** | January 2025 – November 2025
+**Remote | February 2025 – July 2025**
 
-* Led research and development projects spanning **cybersecurity, network authentication, embedded security, hardware authentication, and full-stack security analytics** within the university's **Center of Excellence for Artificial Intelligence and Research**.
-* Designed and implemented security-focused systems involving **Active Directory, FreeRADIUS, LDAP, RADIUS, EAP, MS-CHAPv2, OPNsense, Palo Alto NGFW, PostgreSQL, Rust, embedded firmware, and FIDO2/WebAuthn**.
-* Conducted hands-on R&D across **enterprise authentication infrastructure, web telemetry, embedded security, biometric authentication, and open-source firmware modification**, translating research concepts into functional prototypes.
+* Developed high-availability, mobile-responsive submission management interfaces, reducing grading turnaround time by **30%**.
+* Built real-time tracking and feedback interfaces, reducing instructor administrative workload by **40%**.
 
-**Selected Projects**
+### AIR Center VIT-AP — Technical Lead
+**VIT-AP University** | January 2025 – November 2025
 
 **1. Enterprise AAA & Network Security Infrastructure**
 
@@ -54,14 +55,6 @@ Experienced in building security solutions involving **AWS, GCP, CSPM, CI/CD sec
 * Researched **FIDO2/WebAuthn, embedded security, cryptographic authentication, and biometric authentication** for the custom security-key prototype.
 
 **Technologies:** **Python • Rust • JavaScript • TypeScript • Flask • React • Next.js • PostgreSQL • Supabase • Docker • Active Directory • FreeRADIUS • LDAP • RADIUS • EAP • MS-CHAPv2 • OPNsense • Palo Alto NGFW • OpenSK • FIDO2 • WebAuthn • nRF52840 • STM32 • Embedded Systems • Firmware • Hardware Security**
-
-
-### Edubot — Developer Trainee
-
-**Remote | February 2025 – July 2025**
-
-* Developed high-availability, mobile-responsive submission management interfaces, reducing grading turnaround time by **30%**.
-* Built real-time tracking and feedback interfaces, reducing instructor administrative workload by **40%**.
 
 ## Projects
 
