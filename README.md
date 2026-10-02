@@ -2,11 +2,27 @@
 
 **Cybersecurity Engineer | GenAI / LLM Engineer | Software Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghavvram-blue?logo=linkedin)](https://linkedin.com/in/raghavvram)
-[![GitHub](https://img.shields.io/badge/GitHub-raghavvram-black?logo=github)](https://github.com/raghavvram)
-[![Medium](https://img.shields.io/badge/Medium-raghavvram-black?logo=medium)](https://medium.com/@raghavvram)
-[![Dev.to](https://img.shields.io/badge/Dev.to-raghavvram__johnson-black?logo=devdotto)](https://dev.to/raghavvram_johnson)
-[![Email](https://img.shields.io/badge/Email-raghavvram%40gmail.com-red?logo=gmail)](mailto:raghavvram@gmail.com)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghavvram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavvram)
+[![GitHub](https://img.shields.io/badge/GitHub-raghavvram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavvram)
+[![Medium](https://img.shields.io/badge/Medium-raghavvram-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raghavvram)
+[![Dev.to](https://img.shields.io/badge/Dev.to-raghavvram__johnson-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/raghavvram_johnson)
+[![Email](https://img.shields.io/badge/Email-raghavvram%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavvram@gmail.com)
+
+<br>
+
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/01a0fcf7-1e07-72fe-93f5-8b6740d70fb6)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/raghavvramjohnson)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/raghavvram-johnson/badges/credly)
+
+<br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Raghavram__Johnson-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Raghavram_Johnson/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-raghavvramjohnson-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/raghavvramjohnson)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ap_22bce9190/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/AP_22BCE9190)
+[![CodeChef](https://img.shields.io/badge/CodeChef-raghavvram__007-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/raghavvram_007)
 
 ## About Me
 
