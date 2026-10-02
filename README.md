@@ -8,15 +8,11 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-raghavvram__johnson-black?logo=devdotto)](https://dev.to/raghavvram_johnson)
 [![Email](https://img.shields.io/badge/Email-raghavvram%40gmail.com-red?logo=gmail)](mailto:raghavvram@gmail.com)
 
----
-
 ## About Me
 
 Cybersecurity-focused Computer Science Graduate with hands-on experience across **cloud security, application security, security automation, AI/ML, GenAI, and software development**.
 
 Experienced in building security solutions involving **AWS, GCP, CSPM, CI/CD security, vulnerability management, LLM-based automation, application security testing, and network security**. Interested in building secure, intelligent systems at the intersection of **Cybersecurity, GenAI/LLMs, and Software Engineering**.
-
----
 
 ## Experience
 
@@ -35,8 +31,6 @@ Experienced in building security solutions involving **AWS, GCP, CSPM, CI/CD sec
 
 * Developed high-availability, mobile-responsive submission management interfaces, reducing grading turnaround time by **30%**.
 * Built real-time tracking and feedback interfaces, reducing instructor administrative workload by **40%**.
-
----
 
 ## Projects
 
@@ -58,8 +52,6 @@ Built a containerized **vulnerability management and automated remediation platf
 
 Built an advanced **RAG-based search engine** using PathRAG and relational knowledge graphs to improve context retrieval and reduce LLM hallucinations, demonstrating practical **GenAI/LLM application development, retrieval pipelines, knowledge graphs, and intelligent search**.
 
----
-
 ## Skills
 
 * **Programming:** Python, Java, TypeScript, JavaScript, SQL, Bash, Rust
@@ -73,8 +65,6 @@ Built an advanced **RAG-based search engine** using PathRAG and relational knowl
 * **Development:** FastAPI, Flask, React.js, Node.js, REST APIs
 * **Databases:** PostgreSQL, MongoDB, SQLite
 * **Networking & Identity:** TCP/IP, DNS, HTTP/HTTPS, Firewalls, FreeRADIUS, Active Directory, LDAP
-
----
 
 ## Education
 
@@ -93,8 +83,6 @@ April 2020 – March 2022 | Chennai, Tamil Nadu
 
 **Class X — CBSE | 92.4%**
 March 2019 – March 2020 | Chennai, Tamil Nadu
-
----
 
 ## Core Areas
 
