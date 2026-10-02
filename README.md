@@ -24,7 +24,7 @@ Experienced in building security solutions involving **AWS, GCP, CSPM, CI/CD sec
 * Automated security validation through **CloudBees and Jenkins CI/CD guardrails**, integrating Checkmarx One for **SAST, SCA, IaC security, and secret scanning**, preventing **3,856+ secret exposures** and reducing validation time from days to minutes.
 * Developed **AI-powered security automation** using Google Vertex AI for cloud compliance, reducing manual effort by **80%** and accelerating compliance assessments by **50%**.
 * Developed an **LLM-based security platform for secret detection** and integrated it with CI/CD pipelines for automated analysis of sensitive credentials.
-* 
+
 ### Edubot — Developer Trainee
 
 **Remote | February 2025 – July 2025**
