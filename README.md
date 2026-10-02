@@ -25,6 +25,37 @@ Experienced in building security solutions involving **AWS, GCP, CSPM, CI/CD sec
 * Developed **AI-powered security automation** using Google Vertex AI for cloud compliance, reducing manual effort by **80%** and accelerating compliance assessments by **50%**.
 * Developed an **LLM-based security platform for secret detection** and integrated it with CI/CD pipelines for automated analysis of sensitive credentials.
 
+**AIR Center VIT-AP — VIT-AP University**
+**Technical Lead** | January 2025 – November 2025
+
+* Led research and development projects spanning **cybersecurity, network authentication, embedded security, hardware authentication, and full-stack security analytics** within the university's **Center of Excellence for Artificial Intelligence and Research**.
+* Designed and implemented security-focused systems involving **Active Directory, FreeRADIUS, LDAP, RADIUS, EAP, MS-CHAPv2, OPNsense, Palo Alto NGFW, PostgreSQL, Rust, embedded firmware, and FIDO2/WebAuthn**.
+* Conducted hands-on R&D across **enterprise authentication infrastructure, web telemetry, embedded security, biometric authentication, and open-source firmware modification**, translating research concepts into functional prototypes.
+
+**Selected Projects**
+
+**1. Enterprise AAA & Network Security Infrastructure**
+
+* Integrated **Windows Server Active Directory**, **FreeRADIUS**, **LDAP**, **EAP**, and **MS-CHAPv2** with **OPNsense / Palo Alto NGFW** to implement centralized network authentication and authorization.
+* Developed a custom **FreeRADIUS frontend** and **PostgreSQL-based accounting interface** for authentication, authorization, session tracking, and accounting.
+* Applied **CIA (Confidentiality, Integrity, Availability)** principles to the authentication and network-security architecture.
+
+**2. TRAC — Real-Time Web Telemetry & Analytics**
+
+* Built an end-to-end telemetry platform using an embeddable **JavaScript tracker**, **Python Flask REST API**, **PostgreSQL/Supabase**, and **Next.js/React**.
+* Implemented event ingestion, processing, SQL-based aggregation, filtering, and database indexing for analyzing **visitor, device, browser, geographic, and temporal activity**.
+* Developed an interactive analytics dashboard and deployed the application using **Docker and Vercel**.
+
+**3. YBI Key — Custom FIDO2 Hardware Security Key**
+
+* Adapted and deployed **Google OpenSK** firmware on **nRF52840 and STM32** platforms as part of R&D for a custom hardware security key.
+* Integrated a custom **capacitive fingerprint module** with the firmware stack to investigate biometric-backed hardware authentication.
+* Modified and extended **Rust/OpenSK libraries and firmware components** to support custom hardware and authentication workflows.
+* Researched **FIDO2/WebAuthn, embedded security, cryptographic authentication, and biometric authentication** for the custom security-key prototype.
+
+**Technologies:** **Python • Rust • JavaScript • TypeScript • Flask • React • Next.js • PostgreSQL • Supabase • Docker • Active Directory • FreeRADIUS • LDAP • RADIUS • EAP • MS-CHAPv2 • OPNsense • Palo Alto NGFW • OpenSK • FIDO2 • WebAuthn • nRF52840 • STM32 • Embedded Systems • Firmware • Hardware Security**
+
+
 ### Edubot — Developer Trainee
 
 **Remote | February 2025 – July 2025**
