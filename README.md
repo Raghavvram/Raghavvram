@@ -4,13 +4,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raghavvram-blue?logo=linkedin)](https://linkedin.com/in/raghavvram)
 [![GitHub](https://img.shields.io/badge/GitHub-raghavvram-black?logo=github)](https://github.com/raghavvram)
+[![Medium](https://img.shields.io/badge/Medium-raghavvram-black?logo=medium)](https://medium.com/@raghavvram)
+[![Dev.to](https://img.shields.io/badge/Dev.to-raghavvram__johnson-black?logo=devdotto)](https://dev.to/raghavvram_johnson)
 [![Email](https://img.shields.io/badge/Email-raghavvram%40gmail.com-red?logo=gmail)](mailto:raghavvram@gmail.com)
 
 ---
 
 ## About Me
 
-Cybersecurity-focused Computer Science Engineer with hands-on experience across **cloud security, application security, security automation, AI/ML, GenAI, and software development**.
+Cybersecurity-focused Computer Science Graduate with hands-on experience across **cloud security, application security, security automation, AI/ML, GenAI, and software development**.
 
 Experienced in building security solutions involving **AWS, GCP, CSPM, CI/CD security, vulnerability management, LLM-based automation, application security testing, and network security**. Interested in building secure, intelligent systems at the intersection of **Cybersecurity, GenAI/LLMs, and Software Engineering**.
 
