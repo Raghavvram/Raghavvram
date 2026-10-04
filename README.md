@@ -111,7 +111,7 @@ Built an advanced **RAG-based search engine** using PathRAG and relational knowl
 ### Vellore Institute of Technology
 
 **B.Tech in Computer Science and Engineering — Cybersecurity**
-**September 2022 – May 2026 | CGPA: 9.07/10**
+**September 2022 – August 2026 | CGPA: 9.07/10**
 Amaravati, Andhra Pradesh
 
 ### SBOA School and Junior College
