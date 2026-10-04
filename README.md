@@ -117,12 +117,12 @@ Amaravati, Andhra Pradesh
 ### SBOA School and Junior College
 
 **Class XII — CBSE | 80.2%**
-April 2021 – March 2022 | Chennai, Tamil Nadu
+April 2021 – July 2022 | Chennai, Tamil Nadu
 
 ### SBOA School and Junior College
 
 **Class X — CBSE | 92.4%**
-March 2019 – March 2020 | Chennai, Tamil Nadu
+March 2019 – July 2020 | Chennai, Tamil Nadu
 
 ## Core Areas
 
