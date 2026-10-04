@@ -122,7 +122,7 @@ April 2021 – July 2022 | Chennai, Tamil Nadu
 ### SBOA School and Junior College
 
 **Class X — CBSE | 92.4%**
-March 2019 – July 2020 | Chennai, Tamil Nadu
+April 2019 – July 2020 | Chennai, Tamil Nadu
 
 ## Core Areas
 
